@@ -1,2 +1,5 @@
 a = 1
-b = a
+b = 3
+c= a+b
+print (c)
+print (a)
